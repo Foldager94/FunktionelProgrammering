@@ -1,6 +1,6 @@
-## How to handle polymorphism using union types
+## How to handle polymorphism
 
-> Union types allowes us to store different data in the same memory spot
+> The way we handle polymorphism is with the Maybe tag and Nothing
 > In elm and haskell we can use the 'Maybe' tag.
 >
 > ```
@@ -15,6 +15,6 @@
 >   | just x
 > ```
 
-## How to handle errors using union types
+## How to handle errors
 
 > We would be useing maybe or nothing
