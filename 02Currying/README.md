@@ -9,6 +9,10 @@
 
 > #### Elm <br>
 >
-> `f : Int -> Int -> Int <br> ` > ` f x y = x + y` > `add5 = f 5` > `result = add5 10 ` > `result = 15 // true `
+> `add : Int -> Int -> Int <br> ` >`add x y = x + y` >`add5 = add 5` >`result = add5 10 ` >`result = 15 // true `
 >
 > #### Haskell <br>
+
+## Typical currying use cases
+
+> Partial application
