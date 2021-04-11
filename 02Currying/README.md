@@ -9,6 +9,6 @@
 
 > #### Elm <br>
 >
-> `f : a -> b -> c <br> `
+> `f : Int -> Int -> Int <br> ` > ` f x y = x + y` > `add5 = f 5` > `result = add5 10 ` > `result = 15 // true `
 >
 > #### Haskell <br>
